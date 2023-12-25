@@ -15,7 +15,7 @@ more than 3% mIoU gains on GTA5-to-Cityscapes, SYNTHIA-to-Cityscapes, and Citysc
 
 ## Method Overview
 
-![method]()[SAM4UDASS/image/README/sam4udass2.jpg at main · ywher/SAM4UDASS (github.com)](https://github.com/ywher/SAM4UDASS/blob/main/image/README/sam4udass2.jpg))
+![image]()[SAM4UDASS/image/README/sam4udass2.jpg at main · ywher/SAM4UDASS (github.com)](https://github.com/ywher/SAM4UDASS/blob/main/image/README/sam4udass2.jpg))
 
 ## Environment Setup
 
