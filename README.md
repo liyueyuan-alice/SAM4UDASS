@@ -29,6 +29,12 @@ more than 3% mIoU gains on GTA5-to-Cityscapes, SYNTHIA-to-Cityscapes, and Citysc
 
 > W. Yan, Y. Qian, H. Zhuang, C. Wang and M. Yang, "SAM4UDASS: When SAM Meets Unsupervised Domain Adaptive Semantic Segmentation in Intelligent Vehicles," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3344754.
 
-## Concate
+## Contact
 
 Weihao Yan: weihao_yan@outlook.com
+
+## TO DO
+
+* [ ] Organize the code and upload it
+* [ ] Detailed readme writing
+* [ ] Open-source the trained model
